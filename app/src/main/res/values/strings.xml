@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TravellingDiary</string>
+    <string name="welcome_to_travelling_diary">Welcome to Travelling Diary!</string>
+    <string name="view_entries">View Entries</string>
+    <string name="no_entries">No entries to display</string>
+    <string name="add_new_entry">Add New Entry</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+</resources>
